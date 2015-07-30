@@ -1,0 +1,21 @@
+{
+  "name": "cache",
+  "version": "1.0.0",
+  "description": "Cache framework written in Typescript",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicklas Wallgren <nicklas.wallgren@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "Logger",
+    "framework",
+    "written",
+    "in",
+    "Typescript"
+  ]
+}
